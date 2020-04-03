@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pippo Pluto Paperino	pippo@pluto.uk 	@paperino
 
 # THANKS
 
